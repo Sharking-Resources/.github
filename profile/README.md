@@ -29,8 +29,6 @@ Estamos aqui para ajudar! Se você tiver alguma dúvida, problema técnico ou pr
 
 **Convite para o Discord:**
 
-Você também pode ingressar em nosso servidor Discord usando o código de convite abaixo:
-
 [Código de Convite: xgEGDTdtG8](https://discord.gg/xgEGDTdtG8)
 
 Estamos ansiosos para fornecer a você as melhores modificações para MTA e Bots para Discord. Divirta-se explorando nossa loja e melhorando sua experiência de jogo e comunidade Discord com a Sharking!
